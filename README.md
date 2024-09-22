@@ -1,7 +1,7 @@
 # HR Analysis 
 ## Tools 
-- Use Pivot Table to anlyze data and answer the questions
-- Use Pivot Chart to creat charts and dashboard
+- Used Pivot Table to anlyze data and answer the questions
+- Used Pivot Chart to creat charts and dashboard
 ## Metrics 
 - Number of Employees
 - Number of Male and Female
