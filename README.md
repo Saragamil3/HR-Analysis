@@ -1,4 +1,7 @@
 # HR Analysis 
+## Dashboard
+![Dashboard](https://github.com/Saragamil3/HR-Analysis/blob/main/Screenshot%202024-09-22%20205525.png)
+
 ## Tools 
 - Used Pivot Table to anlyze data and answer the questions
 - Used Pivot Chart to creat charts and dashboard
@@ -11,5 +14,3 @@
 - Overtime Hours per Job Level of employees
 - Number of employees by Job Level
 - Average Anuual Salary per Job Level
-## Dashboard
-![Dashboard](https://github.com/Saragamil3/HR-Analysis/blob/main/Screenshot%202024-09-22%20205525.png)
